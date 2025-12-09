@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je suis Louis Hislaire</h1>
+<h1 align="center">Bonjour 👋/h1>
 <h3 align="center">Étudiant en 4ème année à l'EFREI, spécialisation Information Systems Strategy and Governance</h3>
 
 - 🌱 Je cherche actuellement **Un stage d'une durée de 20 semaines à compter de novembre**
